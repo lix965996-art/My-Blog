@@ -1,0 +1,78 @@
+{
+	"meta": {
+		"title": "小千的小破站",
+		"description": "小千的个人博客，记录前端开发、探索、笔记。",
+		"username": "小千"
+	},
+	"theme": {
+		"colorBrand": "#de4331",
+		"colorPrimary": "#4E3F42",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#FCC841",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
+	},
+	"backgroundColors": [
+		"#FCC841",
+		"#DFEFFC",
+		"#DEDE92",
+		"#DE4331",
+		"#FE9750",
+		"#FCC841"
+	],
+	"artImages": [
+		{
+			"id": "cat",
+			"url": "/images/art/cat.png"
+		},
+		{
+			"id": "a46372ff45bc5524",
+			"url": "/images/art/a46372ff45bc5524.jpg"
+		}
+	],
+	"currentArtImageId": "a46372ff45bc5524",
+	"backgroundImages": [
+		{
+			"id": "",
+			"url": ""
+		}
+	],
+	"currentBackgroundImageId": "",
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/lix965996-art",
+			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "15580269969@163.com",
+			"label": "",
+			"order": 1
+		},
+		{
+			"id": "qq",
+			"type": "qq",
+			"value": "3255880764",
+			"label": "QQ",
+			"order": 2
+		}
+	],
+	"clockShowSeconds": false,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false,
+	"enableChristmas": false,
+	"beian": {
+		"text": "",
+		"link": ""
+	}
+}
